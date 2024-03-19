@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmert2017
-- 👀 I’m interested in Testing, Coding, Cyber Security
+- 👀 I’m interested in Coding, Testing,Cyber Security
 - 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on Coding with Java.
 
